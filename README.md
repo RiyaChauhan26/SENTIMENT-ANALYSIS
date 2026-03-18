@@ -99,3 +99,7 @@ Apply sentiment analysis
 Generate sentiment counts and bar graph
 
 Output includes classified reviews and the visual sentiment distribution chart
+
+# OUTPUT
+<img width="708" height="475" alt="Image" src="https://github.com/user-attachments/assets/be9a4d12-133d-43ed-bbfc-74d1342a9bc2" />
+<img width="1137" height="375" alt="Image" src="https://github.com/user-attachments/assets/ccd8e756-9a24-4ecd-9dee-b99f033d9c56" />
